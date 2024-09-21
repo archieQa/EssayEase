@@ -22,4 +22,49 @@ File Generation:
 jspdf, pdfkit, or pdfmake: PDF generation
 docx: Word document creation
 
-Add more when Doing
+
+Packages:
+
+Frontend Packages
+Core Packages:
+react
+react-dom
+react-router-dom
+Rich Text Editor (install one):
+slate
+draft-js
+quill
+Styling (install one):
+styled-components
+css-modules
+File Export:
+jspdf
+docx
+
+
+Build Tools:
+webpack or vite
+
+
+Development Tools:
+eslint: Linting
+prettier: Code formatting
+jest: Testing framework
+react-testing-library: Testing utilities
+
+Backend Packages
+
+Core Packages:
+express
+cors
+
+
+File Generation:
+jspdf, pdfkit, or pdfmake
+docx
+
+
+Development Tools:
+nodemon: Development server
+eslint: Linting
+jest or mocha: Testing frameworks
