@@ -1,3 +1,14 @@
+File Structure: 
+
+Frontend: 
+
+![Frontend EssayEase](https://github.com/user-attachments/assets/a9ec21bc-f0e4-4375-bc73-302abf454d56)
+
+
+Backend:
+
+![image](https://github.com/user-attachments/assets/52f214d5-1b4c-4033-8155-22af07a887ec)
+
 EssayEase Developer Overview
 
 
